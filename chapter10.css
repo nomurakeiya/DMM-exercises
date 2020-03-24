@@ -11,7 +11,7 @@
 }
 
 main{
-	width: 960px;
+	width: 100%;
 	margin: 50px 0;
 }
 
@@ -67,10 +67,10 @@ main{
 		margin: 0;
 
 	}
-	
+
 	.box{
 		width: 90%;
-		margin: 20px 5%;
+		margin: 10px 5%;
 	}
 
 	.box:first-child{
@@ -78,7 +78,7 @@ main{
 	}
 
 	.box:last-child{
-		margin: 20px 5% 50px 5%;
+		margin: 10px 5% 50px 5%;
 	}
 
 	.img1, .img2, .img3{
